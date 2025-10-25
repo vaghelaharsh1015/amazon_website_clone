@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  font-family: Arial;
+  border: border-box;
+}
+
+.nav-logo {
+  height: 50px;
+  width: 100px;
+}
+
+.navbar {
+  height: 60px;
+  background-color: #0f1111;
+  color: white;
+  display: flex;
+}
+
+.logo {
+  background-image: url(imges/Amazon-icon-in-flat-design-on-transparent-background-PNG.png);
+  background-size: cover;
+  height: 50px;
+  width: 140px;
+}
+.border {
+  border: 2px solid transparent;
+}
+
+.border:hover {
+  border: 2px solid white;
+  width: 140px;
+}
